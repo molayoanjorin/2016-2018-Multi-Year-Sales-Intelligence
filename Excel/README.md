@@ -241,6 +241,8 @@ Tools used: Advanced Editor, Excel Tables, Queries & Connections, Refresh All.
  
  ### Anjorin Molayo.
 
+ Note: This is a project based analysis for my 1st semester exam at Alt School, Karatu Cohort.
+
 
 
 
